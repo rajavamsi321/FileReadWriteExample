@@ -1,0 +1,10 @@
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\bin\Debug\FileReadWriteExample.exe.config
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\bin\Debug\FileReadWriteExample.exe
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\bin\Debug\FileReadWriteExample.pdb
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.csprojAssemblyReference.cache
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.Form1.resources
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.Properties.Resources.resources
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.csproj.GenerateResource.cache
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.csproj.CoreCompileInputs.cache
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.exe
+c:\users\pavan\source\repos\FileReadWriteExample\FileReadWriteExample\obj\Debug\FileReadWriteExample.pdb
